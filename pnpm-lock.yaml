@@ -1,0 +1,16 @@
+lockfileVersion: '6.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+dependencies:
+  address-parse:
+    specifier: ^1.2.19
+    version: 1.2.19
+
+packages:
+
+  /address-parse@1.2.19:
+    resolution: {integrity: sha512-LjTHC6dGDO/Ymh0WEZwvEb/XxGpm7IJEJVzNsy+aBQPGIQXs0T+SlytZIPnGNE1VYJ3fwwME2pSJDczmQaogvg==}
+    dev: false
